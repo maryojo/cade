@@ -3,7 +3,7 @@
 
 Cade is a career recommendation system made primarily for High School students. It makes use of Reinforcement Learning through the Azure Personalizer to make predictions. The input data for the system is the user's academic result and personality type(which is determined through a test). The user gets a career path prediction and some information about it. The user then gives a feedback. I originally made the first version [here](http://cadepersonalizer.herokuapp.com/), but made some major updates on the technologies used and the overall operation and usability of the app was done.
 
-[![MIT License](https://img.shields.io/github/last-commit/maryojo/cade)](https://github.com/maryojo/cade/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/maryojo/cade)](https://github.com/maryojo/cade/commits/main)
 
 - **Live Site URL** : [https://cade2.herokuapp.com/](https://cade2.herokuapp.com/)
 - **GitHub Repository** : [https://github.com/maryojo/cade](https://github.com/maryojo/cade)
