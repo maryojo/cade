@@ -10,7 +10,7 @@ I worked on the UI design. I also added some more features to the web app
 
 
 ### Progress
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
 
 ## Table of contents
 
