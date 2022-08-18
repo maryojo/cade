@@ -5,7 +5,7 @@ import logo from '../images/logo.png'
 const Landing = () => {
   return (
     <section className='flex flex-col lg:flex-row h-screen'>
-      <section className="h-[20%] w-[100%] rotate-[0.2deg] lg:h-full  lg:w-[70%] bg-[url('https://i.ibb.co/v1DGg9c/simplegeometricshapesbackgroundpattern10-generated2.jpg')] bg-cover bg-no-repeat bg-center">
+      <section className="h-[20%] w-[100%] rotate-[0.2deg] lg:h-full  lg:w-[70%] bg-[url('https://ik.imagekit.io/fsa8lvz/simplegeometricshapesbackgroundpattern10_generated2_dexAATm1b.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1660841680085')] bg-cover bg-no-repeat bg-center">
       </section>
       <section className='p-[3em] w-full lg:w-[50%] flex flex-col lg:justify-center space-y-5 lg:space-y-10'>
 
