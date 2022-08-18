@@ -5,7 +5,7 @@ I worked on the UI design. I also added some more features to the web app
 
 [![MIT License](https://img.shields.io/github/last-commit/maryojo/cade)](https://github.com/maryojo/cade/commits/main)
 
-- **Live Site URL** : [https://dynamic-crostata-c45511.netlify.app/](https://dynamic-crostata-c45511.netlify.app/)
+- **Live Site URL** : [https://cade2.herokuapp.com/](https://cade2.herokuapp.com/)
 - **GitHub Repository** : [https://github.com/maryojo/cade](https://github.com/maryojo/cade)
 
 
