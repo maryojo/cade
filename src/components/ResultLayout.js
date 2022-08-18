@@ -59,7 +59,6 @@ const ResultLayout = ({career, id}) => {
             No
           </div>
           </div>
-         
           {/* <p>The event is {id}</p> */}
         </div>
           </div>
