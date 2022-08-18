@@ -1,12 +1,12 @@
-# Space tourism web app
-![Web App screenshot](https://i.ibb.co/rmd5scG/space-screenshot.png)
+# Cade
+![Web App screenshot](./src/images/screenshot.png)
 
-The UI design was gotten from the  [Space tourism challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3). I also added some more features to the web app
+I worked on the UI design. I also added some more features to the web app
 
-[![MIT License](https://img.shields.io/github/last-commit/maryojo/space-tourism-app)](https://github.com/maryojo/space-tourism-app/commits/main)
+[![MIT License](https://img.shields.io/github/last-commit/maryojo/cade)](https://github.com/maryojo/cade/commits/main)
 
 - **Live Site URL** : [https://dynamic-crostata-c45511.netlify.app/](https://dynamic-crostata-c45511.netlify.app/)
-- **GitHub Repository** : [https://github.com/maryojo/space-tourism-app](https://github.com/maryojo/space-tourism-app)
+- **GitHub Repository** : [https://github.com/maryojo/cade](https://github.com/maryojo/cade)
 
 
 ### Progress
@@ -14,7 +14,7 @@ The UI design was gotten from the  [Space tourism challenge on Frontend Mentor](
 
 ## Table of contents
 
-- [Space tourism web app](#space-tourism-web-app)
+- [](#)
     - [Progress](#progress)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
@@ -40,7 +40,7 @@ Create the UI design and the website should operate as required:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./src/images/screenshot.png)
 
 ### Features
 
