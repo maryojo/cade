@@ -13,7 +13,7 @@ const Landing = () => {
           <img src={logo} alt="" className="-ml-2"/>
         </div>
         <h2 className='font-bold text-xl md:text-3xl'>Hi there!</h2>
-        <p className=' text-gray-400 text-md md:text-lg'>No, you shouldn't be confused. Cade uses your personality, skills, etc to predict a great career for you</p>
+        <p className=' text-gray-500 text-md md:text-lg'>No, you shouldn't be confused. Cade uses your personality, skills, etc to predict a great career for you</p>
         <Link to="/personality-test">
         <button className='px-5 py-2 bg-[#3d63d2] rounded-lg text-white'>Start Here</button>
         </Link>

@@ -46,7 +46,7 @@ const ResultLayout = ({career, id}) => {
           <div>{image}</div>
           <div className='w-[70%]'>
           <p className='text-2xl font-medium mb-5'>The career pathway predicted is {career}</p>
-          <p className=' text-gray-400 text-md md:text-md mb-10'>{info}</p>
+          <p className=' text-gray-500 text-md md:text-md mb-10'>{info}</p>
           <div className='space-y-2'>
           <h3>Would you consider a career in this field?</h3>
           <div className='flex flex-row space-x-7'>
