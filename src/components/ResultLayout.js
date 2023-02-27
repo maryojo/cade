@@ -3,7 +3,7 @@ import { Reward } from './Reward'
 
 const ResultLayout = ({career, id}) => {
   const [ feedback, setFeedback ] = useState(null);
-  const [ info, setInfo ] = useState(<p>Hiii</p>);
+  const [ info, setInfo ] = useState(<p>Loading...</p>);
   const [image, setImage ] = useState(<div></div>);
   const wikiURL = `https://en.wikipedia.org/api/rest_v1/page/summary/${career}`;
 
